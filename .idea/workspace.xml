@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< Updated upstream
     <list default="true" id="711969bc-4bb1-4167-b1de-665ecb048d72" name="Changes" comment="">
+=======
+    <list default="true" id="0af76e89-006a-4a41-98bd-2e1a728ce45f" name="Changes" comment="">
+>>>>>>> Stashed changes
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -13,6 +17,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\Simowwn\.android\avd\Pixel_3a_API_34_extension_level_7_x86_64.avd]" />
+<<<<<<< Updated upstream
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
@@ -21,10 +26,19 @@
     </option>
   </component>
   <component name="ProjectId" id="2Y4t34mvxo9ZJKeO7M4JB73Gkkf" />
+=======
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectId" id="2Y4i9oZ94qRaMkH7q0qkJu2ejtg" />
+>>>>>>> Stashed changes
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< Updated upstream
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
@@ -33,6 +47,16 @@
     &quot;cidr.known.project.marker&quot;: &quot;true&quot;
   }
 }</component>
+=======
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "cidr.known.project.marker": "true"
+  }
+}]]></component>
+>>>>>>> Stashed changes
   <component name="RunManager">
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
       <module name="FinalProject.app.main" />
@@ -49,7 +73,11 @@
       <option name="CLEAR_LOGCAT" value="false" />
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
       <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
+<<<<<<< Updated upstream
       <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+=======
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+>>>>>>> Stashed changes
       <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
       <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
       <option name="DEBUGGER_TYPE" value="Auto" />
@@ -104,11 +132,19 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< Updated upstream
       <changelist id="711969bc-4bb1-4167-b1de-665ecb048d72" name="Changes" comment="" />
       <created>1699796480810</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1699796480810</updated>
+=======
+      <changelist id="0af76e89-006a-4a41-98bd-2e1a728ce45f" name="Changes" comment="" />
+      <created>1699791103624</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699791103624</updated>
+>>>>>>> Stashed changes
     </task>
     <servers />
   </component>
